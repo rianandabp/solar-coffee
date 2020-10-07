@@ -1,5 +1,9 @@
-C:\Users\RYIAN\SolarCoffee\SolarCoffee.Data\bin\Debug\netcoreapp3.1\SolarCoffee.Data.deps.json
-C:\Users\RYIAN\SolarCoffee\SolarCoffee.Data\bin\Debug\netcoreapp3.1\SolarCoffee.Data.dll
-C:\Users\RYIAN\SolarCoffee\SolarCoffee.Data\obj\Debug\netcoreapp3.1\SolarCoffee.Data.csprojAssemblyReference.cache
 C:\Users\RYIAN\SolarCoffee\SolarCoffee.Data\obj\Debug\netcoreapp3.1\SolarCoffee.Data.AssemblyInfoInputs.cache
 C:\Users\RYIAN\SolarCoffee\SolarCoffee.Data\obj\Debug\netcoreapp3.1\SolarCoffee.Data.AssemblyInfo.cs
+C:\Users\RYIAN\SolarCoffee\SolarCoffee.Data\obj\Debug\netcoreapp3.1\SolarCoffee.Data.csproj.CoreCompileInputs.cache
+C:\Users\RYIAN\SolarCoffee\SolarCoffee.Data\bin\Debug\netcoreapp3.1\SolarCoffee.Data.deps.json
+C:\Users\RYIAN\SolarCoffee\SolarCoffee.Data\bin\Debug\netcoreapp3.1\SolarCoffee.Data.dll
+C:\Users\RYIAN\SolarCoffee\SolarCoffee.Data\bin\Debug\netcoreapp3.1\SolarCoffee.Data.pdb
+C:\Users\RYIAN\SolarCoffee\SolarCoffee.Data\obj\Debug\netcoreapp3.1\SolarCoffee.Data.dll
+C:\Users\RYIAN\SolarCoffee\SolarCoffee.Data\obj\Debug\netcoreapp3.1\SolarCoffee.Data.pdb
+C:\Users\RYIAN\SolarCoffee\SolarCoffee.Data\obj\Debug\netcoreapp3.1\SolarCoffee.Data.csprojAssemblyReference.cache

@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: SolarCoffee.Data, Configuration: Debug Any CPU ------
+1>SolarCoffee.Data -> C:\Users\RYIAN\SolarCoffee\SolarCoffee.Data\bin\Debug\netcoreapp3.1\SolarCoffee.Data.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
